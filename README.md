@@ -110,10 +110,17 @@ mohammed.zrirak@usmba.ac.ma<br>
 
 
 <!-- Footer -->
-<p align="center">
-   <i>Keep it simple STUPID!</i>
-</p>
-<br/>
+<div align="center">
+  <hr style="width: 50%; margin: 30px auto;">
+  <p>
+    <b>『 Keep it simple STUPID! 』</b>
+  </p>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <br>
+  <sub>© 2025 - Made with ☕ and ❤️</sub>
+</div>
 
 
 
