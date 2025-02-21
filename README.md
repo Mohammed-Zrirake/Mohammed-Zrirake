@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast+💻;Problem+Solver+🧠">
 </h1>
 
-🌱 I'm currently learning new features and web frameworks
-🔭 I'm currently studying as a software engineering student
-👯 I'm looking to collaborate on web development projects
+🌱 I'm currently learning new features and web frameworks<br>
+🔭 I'm currently studying as a software engineering student<br>
+👯 I'm looking to collaborate on web development projects<br>
 📫 How to reach me:
 
-mohamed.zrirake@gmail.com
-mohammed.zrirak@usmba.ac.ma
+mohamed.zrirake@gmail.com<br>
+mohammed.zrirak@usmba.ac.ma<br>
 
 
 📄 Know about my experiences: I'm a full-stack developer with experience in various programming languages and frameworks.
