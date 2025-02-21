@@ -1,9 +1,12 @@
 <h1 align="center">Hiiii 👋, I'm Mohammed Zrirake!</h1>
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=600&height=80&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Code+Craftsman+%E2%9A%92%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-    </a>
-</h1>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineering+Student;%F0%9F%92%A1+Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="90%"/>
+</div>
 
 🌱 I'm currently learning new features and web frameworks<br>
 🔭 I'm currently studying as a software engineering student<br>
