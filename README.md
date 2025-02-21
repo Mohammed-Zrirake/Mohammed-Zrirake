@@ -1,6 +1,8 @@
 <h1 align="center">Hiiii 👋, I'm Mohammed Zrirake!</h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast+💻;Problem+Solver+🧠">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=600&height=80&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Code+Craftsman+%E2%9A%92%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+    </a>
 </h1>
 
 🌱 I'm currently learning new features and web frameworks<br>
