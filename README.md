@@ -103,9 +103,7 @@ mohammed.zrirak@usmba.ac.ma<br>
 </p>
 <br/>
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 <!-- Footer -->
 <p align="center">
    <i>Keep it simple STUPID!</i>
@@ -114,7 +112,4 @@ mohammed.zrirak@usmba.ac.ma<br>
 
 
 
-<!-- Footer -->
-<p align="center">
-   <i>Keep it simple, STUPID!</i>
-</p>
+
