@@ -16,7 +16,7 @@
 mohamed.zrirake@gmail.com<br>
 mohammed.zrirak@usmba.ac.ma<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://ma.linkedin.com/in/mohammed-zrirake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed zrirake" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61573284995831&locale=fr_FR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed zrirake" height="30" width="40" /></a>
@@ -24,7 +24,8 @@ mohammed.zrirak@usmba.ac.ma<br>
 
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left" style="line-height: 3.5; display: flex; flex-wrap: wrap; gap: 20px;"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
@@ -112,7 +113,7 @@ mohammed.zrirak@usmba.ac.ma<br>
 <div align="center">
   <hr style="width: 50%; margin: 30px auto;">
   <p>
-    <b> <h4>『 Keep it simple STUPID! 』 </h4> </b>
+     <h3>『 Keep it simple STUPID! 』 </h3> 
   </p>
 
 </div>
