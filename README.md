@@ -6,6 +6,10 @@
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="90%"/>
+  <a href="https://dev.to/mohammed_zrirake" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Mohammed Zrirake" height="30" width="40" />
+</a>
+
 </div>
 
 🌱 I'm currently learning new features and web frameworks<br>
