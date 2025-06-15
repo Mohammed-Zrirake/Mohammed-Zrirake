@@ -95,6 +95,16 @@ mohammed.zrirak@usmba.ac.ma<br>
   </a>
 </p>
 
+### 🎨 Styling Libraries  
+<p align="left">
+  <a href="https://ui.shadcn.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="40" height="40"/>
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 
