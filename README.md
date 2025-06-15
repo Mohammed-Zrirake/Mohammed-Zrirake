@@ -29,19 +29,7 @@ mohammed.zrirak@usmba.ac.ma<br>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Mohammed Zrirake" height="30" width="40" />
 </a>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiDinari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDinari&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDinari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
