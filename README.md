@@ -87,8 +87,14 @@ mohammed.zrirak@usmba.ac.ma<br>
 
 ### 🔁 State Management  
 <p align="left">
-  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
+  <a href="https://react-query.tanstack.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Query" width="40" height="40"/>
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="Zustand" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
