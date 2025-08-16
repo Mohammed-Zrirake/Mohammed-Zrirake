@@ -114,6 +114,9 @@ mohammed.zrirak@usmba.ac.ma<br>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" style="margin-right: 20px;"/></a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="50" height="50" style="margin-right: 20px;"/></a>
   <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="50" height="50" style="margin-right: 20px;"/></a>
+    <a href="https://www.heroui.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/136986316?s=200&v=4" alt="Hero UI" width="50" height="50" style="margin-right: 20px;"/>
+    </a>
 </p>
 
 
