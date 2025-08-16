@@ -3,7 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineering+Student;%F0%9F%92%A1+Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+      alt="GitHub Trophies"
+      width="100%"
+    />
+  </a>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="90%"/>
@@ -117,15 +123,6 @@ mohammed.zrirak@usmba.ac.ma<br>
     alt="Top Languages"
     height="170"
   />
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-      alt="GitHub Trophies"
-      width="100%"
-    />
-  </a>
-
 </div>
 
 
