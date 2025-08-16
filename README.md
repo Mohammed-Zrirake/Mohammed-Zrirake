@@ -102,22 +102,6 @@ mohammed.zrirak@usmba.ac.ma<br>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50" style="margin-right: 20px;"/></a>
 </p>
 
-### ​ State Management & Validation
-<p align="left">
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://logo.svgcdn.com/l/react-query.svg" alt="React Query" width="50" height="50" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?id=zustand" alt="Zustand" width="50" height="50" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="50" height="50" style="margin-right: 20px;"/>
-  </a>
-</p>
-
 
 ### 🖥️ Operating Systems & Shells
 <p align="left">
