@@ -105,7 +105,7 @@ mohammed.zrirak@usmba.ac.ma<br>
   <div align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=El-Mostafi&theme=black-ice&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
+      src="https://streak-stats.demolab.com?user=Mohammed-Zrirake&theme=black-ice&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak"
       height="170"
     />
@@ -113,12 +113,12 @@ mohammed.zrirak@usmba.ac.ma<br>
 
   <br/>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=El-Mostafi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Mohammed-Zrirake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="GitHub Stats"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-Mostafi&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Zrirake&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
     height="170"
   />
