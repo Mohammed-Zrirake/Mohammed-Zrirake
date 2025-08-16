@@ -65,6 +65,7 @@ mohammed.zrirak@usmba.ac.ma<br>
 <p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50" style="margin-right: 20px;"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50" style="margin-right: 20px;"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="margin-right: 20px;"/></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" style="margin-right: 20px;"/></a>
 </p>
 
@@ -97,14 +98,6 @@ mohammed.zrirak@usmba.ac.ma<br>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin-right: 20px;"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50" style="margin-right: 20px;"/></a>
-</p>
-
-### 🔁 State Management & Validation
-<p align="left">
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin-right: 20px;"/></a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" alt="React Query" width="50" height="50" style="margin-right: 20px;"/></a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg" alt="Zustand" width="50" height="50" style="margin-right: 20px;"/></a>
-  <a href="https://zod.dev/" target="_blank" rel="noreferrer"><img src="https://zod.dev/logo.svg" alt="Zod" width="50" height="50" style="margin-right: 20px;"/></a>
 </p>
 
 ### 🎨 Styling & Design
