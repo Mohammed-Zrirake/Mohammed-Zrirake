@@ -4,37 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineering+Student;%F0%9F%92%A1+Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 
-  <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=Mohammed-Zrirake&theme=black-ice&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Streak"
-      height="170"
-    />
-  </a>
-
-  <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohammed-Zrirake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Zrirake&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-    height="170"
-  />
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-      alt="GitHub Trophies"
-      width="100%"
-    />
-  </a>
-
-</div>
-
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="90%"/>
@@ -128,6 +97,36 @@ mohammed.zrirak@usmba.ac.ma<br>
   <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" style="margin-right: 10px;"/></a>
 </p>
 
+  <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Mohammed-Zrirake&theme=black-ice&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Streak"
+      height="170"
+    />
+  </a>
+
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mohammed-Zrirake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Zrirake&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+      alt="GitHub Trophies"
+      width="100%"
+    />
+  </a>
+
+</div>
 
 
 <!-- Footer -->
