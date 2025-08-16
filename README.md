@@ -3,11 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineering+Student;%F0%9F%92%A1+Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
- <a href="https://github.com/ryo-ma/github-profile-trophy">
+</div>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" 
+      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"
       alt="GitHub Trophies"
-      width="70%"
+      width="95%"
     />
   </a>
 </div>
