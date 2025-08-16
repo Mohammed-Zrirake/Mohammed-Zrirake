@@ -11,9 +11,6 @@
     />
   </a>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="90%"/>
-</div>
 
 🌱 I'm currently learning new features and web frameworks<br>
 🔭 I'm currently studying as a software engineering student<br>
