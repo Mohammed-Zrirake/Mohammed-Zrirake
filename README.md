@@ -97,6 +97,9 @@ mohammed.zrirak@usmba.ac.ma<br>
   <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" style="margin-right: 10px;"/></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenkacem123&show_icons=true&locale=en&layout=compact" alt="Mohammed-Zrirake" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinebenkacem123&show_icons=true&locale=en" alt="Mohammed-Zrirake" /></p>
 
 
 
