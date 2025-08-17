@@ -36,12 +36,12 @@ mohammed.zrirak@usmba.ac.ma<br>
 
 
 
-## 🛠️ Languages and Tools
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      ### 💻 Programming Languages
+      <h3>💻 Programming Languages</h3>
       <p align="left"> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 20px;"/></a>
@@ -51,16 +51,16 @@ mohammed.zrirak@usmba.ac.ma<br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-      ### 🏆 Competitive Programming
+      <h3>🏆 Competitive Programming</h3>
       <p align="left">
         <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-      ### 🌐 Frontend Technologies
+      <h3>🌐 Frontend Technologies</h3>
       <p align="left">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-      ### ⚙️ Backend Technologies
+      <h3>⚙️ Backend Technologies</h3>
       <p align="left">
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50" style="margin-right: 20px;"/>
@@ -75,7 +75,9 @@ mohammed.zrirak@usmba.ac.ma<br>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50" style="margin-right: 20px;"/>
         </a>
       </p>
-      ### 🗃️ Databases
+    </td>
+    <td valign="top" width="50%">
+      <h3>🗃️ Databases</h3>
       <p align="left">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin-right: 20px;"/></a>
@@ -83,28 +85,26 @@ mohammed.zrirak@usmba.ac.ma<br>
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-    </td>
-    <td valign="top" width="50%">
-      ### 🔧 Tools & DevOps
+      <h3>🔧 Tools & DevOps</h3>
       <p align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-      ### 🚀 Deployment
+      <h3>🚀 Deployment</h3>
       <p align="left">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-      ### 🖥️ Operating Systems & Shells
+      <h3>🖥️ Operating Systems & Shells</h3>
       <p align="left">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
-      ### 🎨 Styling & Design
+      <h3>🎨 Styling & Design</h3>
       <p align="left">
         <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="50" height="50" style="margin-right: 20px;"/></a>
