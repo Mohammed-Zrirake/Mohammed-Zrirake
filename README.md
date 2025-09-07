@@ -53,7 +53,7 @@ mohammed.zrirak@usmba.ac.ma<br>
       </p>
       <h3>🏆 Competitive Programming</h3>
       <p align="left">
-        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 20px;"/></a>
+     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
       <h3>🌐 Frontend Technologies</h3>
       <p align="left">
