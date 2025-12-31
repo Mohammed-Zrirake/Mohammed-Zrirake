@@ -43,7 +43,6 @@ mohammed.zrirak@usmba.ac.ma<br>
     <td valign="top" width="50%">
       <h3>💻 Programming Languages</h3>
       <p align="left"> 
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin-right: 20px;"/></a>
@@ -90,16 +89,10 @@ mohammed.zrirak@usmba.ac.ma<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
          alt="MySQL" width="50" height="50" style="margin-right: 20px;" />
   </a>
-  <a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="MySQL Server" width="50" height="50" style="margin-right: 20px;" />
-  </a>
-
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
          alt="PostgreSQL" width="50" height="50" style="margin-right: 20px;" />
   </a>
-
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg"
          alt="Neo4j" width="50" height="50" style="margin-right: 20px;" />
