@@ -65,9 +65,6 @@ mohammed.zrirak@usmba.ac.ma<br>
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50" style="margin-right: 20px;"/>
         </a>
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50" style="margin-right: 20px;"/>
-        </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" height="50" style="margin-right: 20px;"/>
         </a>
@@ -77,14 +74,31 @@ mohammed.zrirak@usmba.ac.ma<br>
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>🗃️ Databases</h3>
-      <p align="left">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="50" height="50" style="margin-right: 20px;"/></a>
-      </p>
+     <h3>🗃️ Databases</h3>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         alt="MongoDB" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL Server" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         alt="PostgreSQL" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg"
+         alt="Neo4j" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+</p>
       <h3>🔧 Tools & DevOps</h3>
       <p align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin-right: 20px;"/></a>
