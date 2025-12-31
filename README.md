@@ -44,7 +44,6 @@ mohammed.zrirak@usmba.ac.ma<br>
       <h3>💻 Programming Languages</h3>
       <p align="left"> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin-right: 20px;"/></a>
@@ -72,6 +71,13 @@ mohammed.zrirak@usmba.ac.ma<br>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50" style="margin-right: 20px;"/>
         </a>
       </p>
+      <h3>🧩 Fullstack Frameworks</h3>
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+         alt="Next.js" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+</p>
     </td>
     <td valign="top" width="50%">
      <h3>🗃️ Databases</h3>
