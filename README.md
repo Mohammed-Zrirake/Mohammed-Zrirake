@@ -4,15 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineering+Student;%F0%9F%92%A1+Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Mohammed-Zrirake&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"
-      alt="GitHub Trophies"
-      width="95%"
-    />
-  </a>
-</div>
 
 🌱 I'm currently learning new features and web frameworks<br>
 🔭 I'm currently studying as a software engineering student<br>
@@ -129,29 +120,12 @@ mohammed.zrirak@usmba.ac.ma<br>
   </tr>
 </table>
 
-
-  <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=Mohammed-Zrirake&theme=black-ice&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Streak"
-      height="170"
-    />
-  </a>
-
-  <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohammed-Zrirake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Stats"
-    height="170"
-  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Zrirake&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
     height="170"
   />
 </div>
-
 
 <!-- Footer -->
 <div align="center">
