@@ -1,4 +1,4 @@
-<h1 align="center">Hiiii 👋, I'm Mohammed Zrirake!</h1>
+<h1 align="center"> Mohammed Zrirake</h1>
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Software+Engineering+Student;%F0%9F%92%A1+Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
@@ -34,14 +34,16 @@ mohammed.zrirak@usmba.ac.ma<br>
     <td valign="top" width="50%">
       <h3>💻 Programming Languages</h3>
       <p align="left">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin-right: 20px;"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 20px;"/></a>
+        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin-right: 20px;"/></a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin-right: 20px;"/></a>
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin-right: 20px;"/></a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin-right: 20px;"/></a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
       <h3>🏆 Competitive Programming</h3>
       <p align="left">
-     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 20px;"/></a>
+        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin-right: 20px;"/></a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 20px;"/></a>
       </p>
       <h3>🌐 Frontend Technologies</h3>
       <p align="left">
@@ -50,11 +52,14 @@ mohammed.zrirak@usmba.ac.ma<br>
       </p>
       <h3>⚙️ Backend Technologies</h3>
       <p align="left">
-        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50" style="margin-right: 20px;"/>
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50" style="margin-right: 20px;"/>
         </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" height="50" style="margin-right: 20px;"/>
+        <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="50" height="50" style="margin-right: 20px;"/>
+        </a>
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" style="margin-right: 20px;"/>
         </a>
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50" style="margin-right: 20px;"/>
@@ -129,4 +134,3 @@ mohammed.zrirak@usmba.ac.ma<br>
   </p>
 
 </div>
-
