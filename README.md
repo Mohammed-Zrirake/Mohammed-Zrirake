@@ -49,7 +49,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 15px;"/>
         </a>
       </p>
-
       <h3>⚙️ Backend Technologies</h3>
       <p align="left">
         <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -65,7 +64,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin-right: 15px;"/>
         </a>
       </p>
-
       <h3>🧩 Fullstack Frameworks</h3>
       <p align="left">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -89,7 +87,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="45" height="45" style="margin-right: 15px;"/>
         </a>
       </p>
-
       <h3>🔧 Tools & DevOps</h3>
       <p align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -105,7 +102,6 @@
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" style="margin-right: 15px;"/>
         </a>
       </p>
-
       <h3>🖥️ OS & Shells</h3>
       <p align="left">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -119,8 +115,6 @@
   </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -133,7 +127,6 @@
 </div>
 
 ---
-
 <!-- Footer -->
 <div align="center">
   <br/>
