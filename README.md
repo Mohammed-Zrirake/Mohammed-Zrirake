@@ -6,8 +6,7 @@
 </div>
 
 🌱 I'm currently learning new features and web frameworks<br>
-🔭 I'm currently studying as a software engineering student<br>
-👯 I'm looking to collaborate on web development projects<br>
+🔭 I'm currently a Software Engineer Looking for a professional Opportunity <br>
 📫 How to reach me:
 
 mohamed.zrirake@gmail.com<br>
